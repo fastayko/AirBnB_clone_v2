@@ -311,4 +311,5 @@ $ python3 unittest -m tests/test_console.py
 ```
 
 ## Authors
-* [**Mendie Uwemedimo**](https://github.com/slamchillz)
+* [**Fathi Hamdi**](https://github.com/Gmkamaro)
+* [**Khalil Hamdi**](https://github.com/fastayko)
